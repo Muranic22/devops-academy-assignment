@@ -1,5 +1,5 @@
 
- Chyba bola v URL adrese, na ktoru chcel NGINX server smeroval poziadavky. 
+ Chyba bola v URL adrese, na ktoru chcel NGINX server smerovat poziadavky. 
  Ta bola nespravne zadana, kedze port aplikacie nie je 8080, ale 3000.
 
 
